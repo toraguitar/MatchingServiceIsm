@@ -1,11 +1,12 @@
 # MatchingServiceIsm
 マッチングサービス制作のための何か
 
-|コーディング規約
-|BEM
-|htmlhint: 標準設定
-|stylelint: recommended, recess, prettier
-|eslint: airbnb-base/legacy (JSはES5を利用)
+# コーディング規約
+
+BEM <br>
+htmlhint: 標準設定 <br>
+stylelint: recommended, recess, prettier <br>
+eslint: airbnb-base/legacy (JSはES5を利用) <br>
 
 # ディレクトリ解説
 
